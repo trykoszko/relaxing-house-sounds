@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "cacafaad-ff19-42d6-aa6c-7a38eceea49e"
+      }
+    },
+    "owner": "trykoszkom"
   }
 }
